@@ -3,7 +3,8 @@ i did it. It's RandomHentai, except [e621](https://e621.net).
 
 That's really it. Do I need to say any more?
 
-![Random Yiff](screenshot.png)
+![Random Yiff](screenshot0.png)
+![Random Yiff2](screenshot1.png)
 
 I have absolutely no idea how to code lua. This took way longer than expected, and the code is probably fuckin spaghetti. I am aware that occasionally no image shows up. If someone could give advice that would be nice, but for now, you can press cross or down to just load a new one.
 
