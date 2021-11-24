@@ -1,13 +1,13 @@
-# Random Hentai
-A simple PS Vita homebrew that returns a random hentai picture from [Konachan](http://konachan.com).
+# Random Yiff
+i did it. It's RandomHentai, except [e621](https://e621.net).
 
 That's really it. Do I need to say any more?
 
-![Random Hentai](screenshot.png)
+![Random Yiff](screenshot.png)
 
-Source updated from the original with extra features.
+I have absolutely no idea how to code lua. This took way longer than expected, and the code is probably fuckin spaghetti. I am aware that occasionally no image shows up. If someone could give advice that would be nice, but for now, you can press cross or down to just load a new one.
 
-Uses [Konachan](http://konachan.com) as a source.
+Uses [e621](https://e621.net) as a source.
 
 ## Controls
 **L Trigger/R Trigger** - Save current image (By ID)
